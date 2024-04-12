@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 #### :globe_with_meridians: Socials:
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg' alt='github' height='40'>](https://www.github.com/shafiurshuvo/)
 [<img src='https://github.com/gilbarbara/logos/blob/main/logos/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shafiur.shuvo.12)
-[<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shafiur.shuvo/)  
+[<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shafiur.shuvo/)
 
 #### :computer: Tech Stack:
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/python/python.svg' alt='python' height='40'>]()
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/php/php.svg' alt='php' height='40'>]()
-[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/bootstrap/bootstrap.svg' alt='bootstrap' height='40'>]()
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/mysql/mysql.svg' alt='mysql' height='40'>]()
+[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/bootstrap/bootstrap.svg' alt='bootstrap' height='40'>]()
+[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg' alt='github' height='40'>]()
 [<img src='https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg' alt='django' height='40'>]()
 [<img src='https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg' alt='matplotlib' height='40'>]()
 
