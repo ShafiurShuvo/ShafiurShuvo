@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg' alt='html' height='40'>]()
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg' alt='css' height='40'>]()
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/bootstrap/bootstrap.svg' alt='bootstrap' height='40'>]()
-
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/python/python.svg' alt='python' height='40'>]()
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/php/php.svg' alt='php' height='40'>]()
-
 [<img src='https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg' alt='django' height='40'>]()
-
 [<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/mysql/mysql.svg' alt='mysql' height='40'>]()
 [<img src='https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg' alt='matplotlib' height='40'>]()
 
