@@ -69,10 +69,9 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="center">Random Dev Meme</h3>-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
-</p> 
+</p> -->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visotor%20Count%20%E2%9C%85&color=12&icon=0&pretty=true" />
-</a>
+[![Visitor Count](https://shields.io/badge/dynamic/json?color=12&label=Visitor%20Count&query=value&url=https://visitcount.itsvg.in/api?id=ShafiurShuvo)](https://visitcount.itsvg.in)
+
