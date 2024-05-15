@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###
+
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
   <a href="https://www.github.com/shafiurshuvo/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="github" height="40"></a>
@@ -23,9 +25,11 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/shafiur.shuvo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="40"></a>
 </p>
 
-<h3 align="center">💻 Tech Stack:</h3>
+###
 
-<p align="center">
+<h3 align="left">💻 Tech Stack:</h3>
+
+<p align="left">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg" alt="html" height="40">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg" alt="css" height="40">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/bootstrap/bootstrap.svg" alt="bootstrap" height="40">
@@ -45,14 +49,17 @@ Here are some ideas to get you started:
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 <!-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) -->
 
+###
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shafiurshuvo&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiurshuvo&theme=radical&hide_border=false" alt="GitHub streak stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiurshuvo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
 </p>
+
+###
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
