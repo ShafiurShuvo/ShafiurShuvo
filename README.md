@@ -73,5 +73,5 @@ Here are some ideas to get you started:
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
 </p> -->
 
-[![Visitor Count](https://shields.io/badge/dynamic/json?color=12&label=Visitor%20Count&query=value&url=https://visitcount.itsvg.in/api?id=ShafiurShuvo)](https://visitcount.itsvg.in)
-
+[![](https://shields.io/badge/dynamic/json?label=Visitor%20Count&color=11&icon=0&pretty=true&query=value&url=https://visitcount.itsvg.in/api?id=ShafiurShuvo)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visitor%20Count&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
