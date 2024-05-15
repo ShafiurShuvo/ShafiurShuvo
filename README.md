@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3 align="left">🔝 Top Contributed Repo</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=shafiurshuvo&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
@@ -72,3 +72,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
 </p> 
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views">
+</p>
