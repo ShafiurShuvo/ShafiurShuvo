@@ -73,8 +73,8 @@ Here are some ideas to get you started:
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
 </p> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views">
-</p>
+</p> -->
 
-<!--[![](https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
