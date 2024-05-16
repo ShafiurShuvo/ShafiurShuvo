@@ -1,6 +1,3 @@
-<h2 align="center">Hi there 👋 I'm Shuvo</h2>
-<h3 align="center">Computer Science & Engineering student</h3>
-
 <!--
 **ShafiurShuvo/ShafiurShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h2 align="center">Hi there 👋 I'm Shuvo</h2>
+<h3 align="center">I am a Computer Science & Engineering student</h3>
+
 ###
 
-<h3 align="center">🌐 Socials:</h3>
+<!-- <h3 align="center">🌐 Socials:</h3> -->
 <p align="center">
   <a href="https://www.github.com/shafiurshuvo/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="github" height="40"></a>
   <a href="https://www.facebook.com/shafiur.shuvo.12"><img src="https://github.com/gilbarbara/logos/blob/main/logos/facebook.svg" alt="facebook" height="40"></a>
   <a href="https://www.instagram.com/shafiur.shuvo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="40"></a>
 </p>
+
+###
+
+<h3>:dizzy: About Me:</h3>
+<ul>
+  <li>🔭 I’m currently studying Computer Science & Engineering</li>
+  <li>📫 How to reach me: <a href="mailto:shafiurshuvo329@gmail.com">shafiurshuvo329@gmail.com</a></li>
+</ul>
 
 ###
 
@@ -67,13 +76,10 @@ Here are some ideas to get you started:
   <img src="https://github-contributor-stats.vercel.app/api?username=shafiurshuvo&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
-<!-- <h3 align="center">Random Dev Meme</h3>-->
-
-<!-- <p align="center">
-  <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
-</p> -->
+<h3>😂 Random Dev Meme</h3>
+<img src='https://memer-new.vercel.app/' style="height: 400px;">
 
 <p align="left">
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visitor%20Count&color=11&icon=0&pretty=true" /> </a>
+  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visitor%20Count&color=12&icon=0&pretty=true" /> </a>
 </p>
