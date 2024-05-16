@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   <img src="https://randommeme-five.vercel.app/" style="height: 400px;">
 </p> -->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visitor%20Count&color=11&icon=0&pretty=true" />
-</a>
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShafiurShuvo&label=Visitor%20Count&color=11&icon=0&pretty=true" /> </a>
+</p>
