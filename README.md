@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 ###
 
 <!-- <h3 align="center">🌐 Socials:</h3> -->
-<p align="center">
-  <a href="https://www.github.com/shafiurshuvo/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="github" height="40"></a>
-  <a href="https://www.facebook.com/shafiur.shuvo.12"><img src="https://github.com/gilbarbara/logos/blob/main/logos/facebook.svg" alt="facebook" height="40"></a>
-  <a href="https://www.instagram.com/shafiur.shuvo/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="40"></a>
-</p>
 
 <p align="center">
   <a href="mailto:shafiurshuvo329@gmail.com">>
