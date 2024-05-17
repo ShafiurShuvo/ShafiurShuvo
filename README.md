@@ -85,7 +85,9 @@ Here are some ideas to get you started:
 </p>
 
 <h3>😂 Random Dev Meme</h3>
+<p align="center">
 <img src='https://memer-new.vercel.app/' style="height: 400px;">
+</p>
 
 <p align="left">
   <a href="https://visitcount.itsvg.in">
