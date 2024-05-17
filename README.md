@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3>:dizzy: About Me:</h3>
+<h3>💫 About Me:</h3>
 <ul>
   <li>🔭 I’m currently studying Computer Science & Engineering</li>
   <li>📫 How to reach me: <a href="mailto:shafiurshuvo329@gmail.com">shafiurshuvo329@gmail.com</a></li>
