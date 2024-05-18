@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">🌐 Socials:</h3> -->
 
 <p align="center">
-  <a href="(https://linkedin.com/in/Shafiur Rahman )">
+  <a href="(https://www.linkedin.com/in/shafiur-rahman-37629b30a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
   </a>
   <a href="(mailto:shafiurshuvo329@gmail.com")>
