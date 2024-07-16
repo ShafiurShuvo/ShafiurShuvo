@@ -50,16 +50,21 @@ Here are some ideas to get you started:
 <h3 align="left">💻 Tech Stack:</h3>
 
 <p align="left">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg" alt="html" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg" alt="css" height="40">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" alt="bootstrap" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/python/python.svg" alt="python" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/cpp/cpp.svg" alt="cpp" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/php/php.svg" alt="php" height="40">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" alt="django" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vscode/vscode.svg" alt="vscode" height="40">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/arduino.svg" alt="arduino" height="40">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/mysql/mysql.svg" alt="mysql" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpp" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="django" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="numpy" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="pandas" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" height="40">
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="sqlite" height="40">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="mariadb" height="40">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" alt="matplotlib" height="40">
 </p>
 
