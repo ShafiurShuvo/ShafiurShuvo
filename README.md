@@ -86,16 +86,20 @@ Here are some ideas to get you started:
 
 ###
 
+<!--
 <h3 align="left">🔝 Top Contributed Repo</h3>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=shafiurshuvo&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
+-->
 
+<!--
 <h3>😂 Random Dev Meme</h3>
 <p align="center">
 <img src='https://memer-new.vercel.app/' style="height: 400px;">
 </p>
+-->
 
 <p align="left">
   <a href="https://visitcount.itsvg.in">
